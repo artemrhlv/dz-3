@@ -1,0 +1,30 @@
+{
+	"student":{
+		"id": 32450,
+		"firstname": "Andriy",
+		"lastname": "Stepko",
+		"age": 23,
+		"subjects": [
+			{
+				"subjectname": "math",
+				"averagemark": 81.25,
+				"credits": 32,
+				"pass": true
+				},
+			{
+				"subjectname": "physics",
+				"averagemark": 78.75,
+				"credits": 18,
+				"pass": true
+				},
+			{
+				"subjectname": "english",
+				"averagemark": 72.00,
+				"credits": 12,
+				"pass": null
+			}
+			],
+		"contactnumber": "0639999999",
+		"email": "email@gmail.com"
+      }
+}

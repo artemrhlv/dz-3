@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<student>
+		<id>32450</id>
+		<firstname>Andriy</firstname>
+		<lastname>Stepko</lastname>
+		<age>23</age>
+		<subjects>
+			<subjectname>math</subjectname>
+			<averagemark>81.25</averagemark>
+			<credits>32</credits>
+			<pass>true</pass>
+		</subjects>
+		<subjects>
+			<subjectname>physics</subjectname>
+			<averagemark>78.75</averagemark>
+			<credits>18</credits>
+			<pass>true</pass>
+		</subjects>
+		<subjects>
+			<subjectname>english</subjectname>
+			<averagemark>72</averagemark>
+			<credits>12</credits>
+			<pass />
+		</subjects>
+		<contactnumber>0639999999</contactnumber>
+		<email>email@gmail.com</email>
+	</student>
+</root>
+</xml>
